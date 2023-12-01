@@ -1,16 +1,19 @@
-### Hi there 👋
+###Welcome to My Coding Universe! 🚀
+Hey there! 👋 I'm CHINTAMANENI NAGA PRASANNA, a passionate full-stack developer on a journey to explore the infinite possibilities in the world of coding.
 
-<!--
-**prasanna-chintamaneni/prasanna-chintamaneni** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+###🌐 About Me
+💡 Turning coffee into code since 2021.
+🚀 Constantly evolving and creating in the coding cosmos.
+🌟 Exploring new technologies and embracing challenges.
+###🔗 Connect With Me
+Portfolio: nagaprasanna.vercel.app
+GitHub: prasanna-chintamaneni
+Let's connect, collaborate, and turn ideas into reality! 🚀✨
 
-Here are some ideas to get you started:
+###📚 Expertise
+Frontend: HTML, CSS, JavaScript
+Backend: Node.js
+Frameworks: React
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+###🌈 #CodeDreamCreate
+Follow my coding adventures with #CodeDreamCreate. Together, let's bring dreams to life through code!
