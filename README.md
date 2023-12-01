@@ -21,5 +21,3 @@ Let's connect, collaborate, and turn ideas into reality! 🚀✨
 ## 🌈 #CodeDreamCreate
 Follow my coding adventures with #CodeDreamCreate. Together, let's bring dreams to life through code!
 
-```markdown
-[![GitHub followers](https://img.shields.io/github/followers/prasanna-chintamaneni?style=social)](https://github.com/prasanna-chintamaneni)
