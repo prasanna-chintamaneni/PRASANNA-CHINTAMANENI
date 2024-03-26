@@ -9,7 +9,7 @@ Hey there! 👋 I'm CHINTAMANENI NAGA PRASANNA, a passionate full-stack develope
 
 ## 🔗 Connect With Me
 - Portfolio: [nagaprasanna.vercel.app](https://nagaprasanna.vercel.app)
-- LinkedIn: [nagaprasannachintamaneni]([https://www.linkedin.com/in/chintamaneninagaprasanna/])
+- LinkedIn: [linkedin.com/in/chintamaneninagaprasanna]([https://www.linkedin.com/in/chintamaneninagaprasanna/])
 
 Let's connect, collaborate, and turn ideas into reality! 🚀✨
 
