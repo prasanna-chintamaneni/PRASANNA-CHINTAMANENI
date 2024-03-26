@@ -18,7 +18,7 @@ Let's unite the power of machine learning with the creativity of web development
 - Languages: Python
 - Libraries: scikit-learn, TensorFlow, PyTorch
 - Techniques: Regression, Classification, Clustering, Natural Language Processing (NLP), Computer Vision
-#Web Development:
+# Web Development:
 - Frontend: HTML, CSS, JavaScript, React.js
 - Backend: Node.js, Express.js
 - Databases: MongoDB, SQL
