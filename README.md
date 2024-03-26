@@ -1,23 +1,27 @@
-# Welcome to My Coding Universe! 🚀
+# Welcome to the Intersection of Machine Learning and Web Development! 🤖💻
 
-Hey there! 👋 I'm CHINTAMANENI NAGA PRASANNA, a passionate full-stack developer on a journey to explore the infinite possibilities in the world of coding.
+Hey there! 👋 I'm CHINTAMANENI NAGA PRASANNA, a passionate enthusiast in both machine learning and web development, exploring the exciting fusion of AI and the digital universe.
 
 ## 🌐 About Me
-- 💡 Turning coffee into code since 2021.
-- 🚀 Constantly evolving and creating in the coding cosmos.
-- 🌟 Exploring new technologies and embracing challenges.
+- 💡 Crafting intelligent algorithms and captivating web experiences since 2021.
+- 🚀 Constantly bridging the gap between data science and frontend magic.
+- 🌟 Thriving in the convergence of cutting-edge technologies.
 
 ## 🔗 Connect With Me
 - Portfolio: [nagaprasanna.vercel.app](https://nagaprasanna.vercel.app)
 - LinkedIn: [nagaprasannachintamaneni](https://www.linkedin.com/in/chintamaneninagaprasanna/)
 
-Let's connect, collaborate, and turn ideas into reality! 🚀✨
+Let's unite the power of machine learning with the creativity of web development! 🚀✨
 
 ## 📚 Expertise
-- Frontend: HTML, CSS, JavaScript
-- Backend: Node.js
-- Frameworks: React
+# Machine Learning:
+- Languages: Python
+- Libraries: scikit-learn, TensorFlow, PyTorch
+- Techniques: Regression, Classification, Clustering, Natural Language Processing (NLP), Computer Vision
+#Web Development:
+- Frontend: HTML, CSS, JavaScript, React.js
+- Backend: Node.js, Express.js
+- Databases: MongoDB, SQL
 
 ## 🌈 #CodeDreamCreate
-Follow my coding adventures with #CodeDreamCreate. Together, let's bring dreams to life through code!
-
+Follow my journey at the crossroads of machine learning and web development with #CodeDreamCreate. Together, Let's blend innovation and creativity to build intelligent web solutions!
