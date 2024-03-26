@@ -21,7 +21,7 @@ Let's unite the power of machine learning with the creativity of web development
 ### Web Development:
 - Frontend: HTML, CSS, JavaScript, React.js
 - Backend: Node.js, Express.js
-- Databases: MongoDB, SQL
+- Databases: MongoDB
 
 ## 🌈 #CodeDreamCreate
 Follow my journey at the crossroads of machine learning and web development with #CodeDreamCreate. Together, Let's blend innovation and creativity to build intelligent web solutions!
